@@ -1,0 +1,138 @@
+{
+  "weather": [
+    {
+      "city": "Tel Aviv",
+      "temp": 26.03,
+      "wind": 2.24,
+      "temp_min": 23.59,
+      "temp_max": 26.07,
+      "humidity": 32,
+      "id": 1
+    },
+    {
+      "city": "Ljubljana",
+      "temp": 21.6,
+      "wind": 3.09,
+      "temp_min": 19.65,
+      "temp_max": 24.45,
+      "humidity": 59,
+      "id": 2
+    },
+    {
+      "city": "Moscow",
+      "temp": 24.44,
+      "wind": 0.83,
+      "temp_min": 22.58,
+      "temp_max": 25.34,
+      "humidity": 45,
+      "id": 3
+    },
+    {
+      "city": "Hrasno",
+      "temp": 20.2,
+      "wind": 2.68,
+      "temp_min": 20.2,
+      "temp_max": 20.64,
+      "humidity": 56,
+      "id": 4
+    },
+    {
+      "city": "Maribor",
+      "temp": 23.97,
+      "wind": 2.57,
+      "temp_min": 23.84,
+      "temp_max": 25.71,
+      "humidity": 46,
+      "id": 5
+    },
+    {
+      "city": "London",
+      "temp": 18.62,
+      "wind": 7.2,
+      "temp_min": 15.43,
+      "temp_max": 20.5,
+      "humidity": 44,
+      "id": 6
+    },
+    {
+      "city": "Ashdod",
+      "temp": 24.87,
+      "wind": 3.76,
+      "temp_min": 24.64,
+      "temp_max": 27.81,
+      "humidity": 62,
+      "id": 7
+    },
+    {
+      "city": "Stari Grad",
+      "temp": 21.91,
+      "wind": 1.54,
+      "temp_min": 19.82,
+      "temp_max": 26.51,
+      "humidity": 68,
+      "id": 8
+    },
+    {
+      "city": "Haifa",
+      "temp": 28,
+      "wind": 1.5,
+      "temp_max": 25.34,
+      "humidity": 45,
+      "id": 9
+    },
+    {
+      "city": "Dravograd",
+      "temp": 16.36,
+      "wind": 0.46,
+      "temp_min": 14.76,
+      "temp_max": 19.33,
+      "humidity": 91,
+      "id": 10
+    },
+    {
+      "city": "Bayreuth",
+      "temp": 14.06,
+      "wind": 2.93,
+      "temp_min": 13.45,
+      "temp_max": 15.01,
+      "humidity": 91,
+      "id": 11
+    },
+    {
+      "city": "Iasi",
+      "temp": 22.46,
+      "wind": 5.81,
+      "temp_min": 22.31,
+      "temp_max": 22.88,
+      "humidity": 36,
+      "id": 12
+    },
+    {
+      "city": "Ash Vale",
+      "temp": 12.54,
+      "wind": 6.17,
+      "temp_min": 10.87,
+      "temp_max": 14.78,
+      "humidity": 64,
+      "id": 13
+    },
+    {
+      "city": "Dhalie",
+      "temp": 27.58,
+      "wind": 3.18,
+      "temp_min": 27.58,
+      "temp_max": 27.58,
+      "humidity": 42,
+      "id": 14
+    },
+    {
+      "city": "Ub",
+      "temp": 20.94,
+      "wind": 3.55,
+      "temp_min": 20.94,
+      "temp_max": 20.94,
+      "humidity": 66,
+      "id": 15
+    }
+  ]
+}
